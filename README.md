@@ -1,0 +1,1 @@
+![example workflow](https://github.com/NataliyaMedvedeva/web1/actions/workflows/main.yml/badge.svg)
